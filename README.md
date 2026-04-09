@@ -40,7 +40,7 @@ Ao longo do processo, percebi que a construção de bons prompts é essencial pa
 
 ##  Mini guia de Estudo – Steve Jobs
 
-Steve Jobs foi um dos principais nomes da história da tecnologia, conhecido por sua visão inovadora e capacidade de transformar ideias em produtos de grande impacto. Cofundador da Apple Inc., teve papel fundamental na popularização dos computadores pessoais e na revolução dos dispositivos móveis.
+Steve Jobs foi um dos principais nomes da história da tecnologia, conhecido por sua visão inovadora e capacidade de transformar ideias em produtos de grande impacto. Cofundador da Apple, teve papel fundamental na popularização dos computadores pessoais e na revolução dos dispositivos móveis.
 
 Sua trajetória foi marcada por desafios, incluindo sua saída da Apple e posterior retorno, período em que liderou a empresa rumo a um dos maiores crescimentos da indústria tecnológica. Sua abordagem era baseada na simplicidade, na experiência do usuário e na integração entre design e tecnologia.
 
