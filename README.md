@@ -38,7 +38,7 @@ Ao longo do processo, percebi que a construção de bons prompts é essencial pa
 - "Liste os principais aprendizados sobre inovação, de forma objetiva."
 - "Responda como Steve Jobs: quais são os pilares para criar um produto inovador?"
 
-##  Miniguia de Estudo – Steve Jobs
+##  Mini guia de Estudo – Steve Jobs
 
 Steve Jobs foi um dos principais nomes da história da tecnologia, conhecido por sua visão inovadora e capacidade de transformar ideias em produtos de grande impacto. Cofundador da Apple Inc., teve papel fundamental na popularização dos computadores pessoais e na revolução dos dispositivos móveis.
 
